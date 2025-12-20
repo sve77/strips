@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1766262464972,
+  "timestamp": 1766260522120,
   "index": "/strips/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/strips/favicon.ico",
         "/strips/index.html",
-        "/strips/main-OTD5N22D.js",
+        "/strips/main-YRP6MQKF.js",
         "/strips/manifest.webmanifest",
         "/strips/styles-OPUTW5UJ.css"
       ],
@@ -54,8 +54,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/strips/assets/data/reeks.json": "5790437bb5645ec1f964b72acb95461be54e5efb",
-    "/strips/assets/data/ssstrips.json": "55ab640a5385e814cd1f6f9469533214f0939244",
+    "/strips/assets/data/reeks.json": "d94f05b100ea27fb2f0c4a221457829d4b5fc4bb",
+    "/strips/assets/data/ssstrips.json": "5553da6ef03d32c231edf1b5ebb6eb250511d32f",
     "/strips/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/strips/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/strips/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
@@ -65,9 +65,9 @@
     "/strips/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/strips/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/strips/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/strips/index.html": "5a83160ea9fb3a43d3e7f1f781be10bf80e901ae",
-    "/strips/main-OTD5N22D.js": "71dfb92985ea594cd3b0e3bb953f0c16fbc51465",
-    "/strips/manifest.webmanifest": "359b4ef06f4c692ae07e59d873afef381e5e947e",
+    "/strips/index.html": "8ff96f65f989ae77bbf452c47d88d8e47288f7c6",
+    "/strips/main-YRP6MQKF.js": "ff992ccc4a1079abec81d4edc89d3c9082405a7f",
+    "/strips/manifest.webmanifest": "6b47919b332d84605f2af060e2cbb93a922b5963",
     "/strips/styles-OPUTW5UJ.css": "0918ee8e18cf383756264e2ddad6eea59484ea1f"
   },
   "navigationUrls": [
