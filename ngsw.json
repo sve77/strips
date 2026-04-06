@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768739706617,
+  "timestamp": 1775497628135,
   "index": "/strips/index.html",
   "assetGroups": [
     {
@@ -60,8 +60,8 @@
     "/strips/assets/data/ingredienten.json": "cca163a179f51677779272ed640b702b5c64e057",
     "/strips/assets/data/instructies.json": "332c134e89f7d8c1a2724db74bf1a4e7b623f1fd",
     "/strips/assets/data/recepten.json": "6db875af10c49b8b0bc867fe9dccb84b452ea346",
-    "/strips/assets/data/reeks.json": "5790437bb5645ec1f964b72acb95461be54e5efb",
-    "/strips/assets/data/ssstrips.json": "f55f3826f9c98798b1b5f9bbe125bbc2c41e35ba",
+    "/strips/assets/data/reeks.json": "86e6aae6480f25f5717eca7fe078958f6496d96a",
+    "/strips/assets/data/ssstrips.json": "5d39dee01758c8233ee2523f2dd2f5394a104c53",
     "/strips/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/strips/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/strips/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
@@ -71,7 +71,7 @@
     "/strips/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/strips/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/strips/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/strips/index.html": "e2007c78b3c3c76dbf0e04cc7ff73a74b9409f3b",
+    "/strips/index.html": "6d8b19607e6693662f64c9c71e1b8ca0769ea091",
     "/strips/main-QB4PMDJQ.js": "8d363530fb469c18c6b8b08aa62a26edd7e9ecaf",
     "/strips/manifest.webmanifest": "359b4ef06f4c692ae07e59d873afef381e5e947e",
     "/strips/styles-OPUTW5UJ.css": "0918ee8e18cf383756264e2ddad6eea59484ea1f"
