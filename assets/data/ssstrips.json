@@ -109,6 +109,24 @@
     },
     {
         "datum":  "2000-01-01",
+        "TITEL":  "En het spookschip",
+        "SOORT":  "4H",
+        "Scenarist":  "Chaulet Georges",
+        "Tekenaar":  "Craenhals François",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "En de koeroekoe",
+        "SOORT":  "4H",
+        "Scenarist":  "Chaulet Georges",
+        "Tekenaar":  "Craenhals François",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2000-01-01",
         "TITEL":  "En de meesterspion",
         "SOORT":  "4H",
         "Scenarist":  "Chaulet Georges",
@@ -118,7 +136,25 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "En de reuzencondor",
+        "TITEL":  "En de nachtelijke bezoeker",
+        "SOORT":  "4H",
+        "Scenarist":  "Chaulet Georges",
+        "Tekenaar":  "Craenhals François",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "En het rampenkasteel",
+        "SOORT":  "4H",
+        "Scenarist":  "Chaulet Georges",
+        "Tekenaar":  "Craenhals François",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "En het zeemonster",
         "SOORT":  "4H",
         "Scenarist":  "Chaulet Georges",
         "Tekenaar":  "Craenhals François",
@@ -145,52 +181,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "En de koeroekoe",
-        "SOORT":  "4H",
-        "Scenarist":  "Chaulet Georges",
-        "Tekenaar":  "Craenhals François",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "En het spookschip",
-        "SOORT":  "4H",
-        "Scenarist":  "Chaulet Georges",
-        "Tekenaar":  "Craenhals François",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "En de nachtelijke bezoeker",
-        "SOORT":  "4H",
-        "Scenarist":  "Chaulet Georges",
-        "Tekenaar":  "Craenhals François",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "En het zeemonster",
-        "SOORT":  "4H",
-        "Scenarist":  "Chaulet Georges",
-        "Tekenaar":  "Craenhals François",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "En het rampenkasteel",
-        "SOORT":  "4H",
-        "Scenarist":  "Chaulet Georges",
-        "Tekenaar":  "Craenhals François",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "En de goudkoorts",
+        "TITEL":  "En de reuzencondor",
         "SOORT":  "4H",
         "Scenarist":  "Chaulet Georges",
         "Tekenaar":  "Craenhals François",
@@ -225,13 +216,13 @@
         "Uitgever":  "Casterman"
     },
     {
-        "datum":  "2023-11-27",
-        "TITEL":  "De diepe kloof-",
-        "SOORT":  "A",
-        "Scenarist":  "Goscinny René",
-        "Tekenaar":  "Uderzo Albert",
+        "datum":  "2000-01-01",
+        "TITEL":  "En de goudkoorts",
+        "SOORT":  "4H",
+        "Scenarist":  "Chaulet Georges",
+        "Tekenaar":  "Craenhals François",
         "NUMMER":  null,
-        "Uitgever":  "Dargaud"
+        "Uitgever":  "Casterman"
     },
     {
         "datum":  "2000-01-01",
@@ -245,6 +236,15 @@
     {
         "datum":  "2023-11-27",
         "TITEL":  "En zijn vrienden",
+        "SOORT":  "A",
+        "Scenarist":  "Goscinny René",
+        "Tekenaar":  "Uderzo Albert",
+        "NUMMER":  null,
+        "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2023-11-27",
+        "TITEL":  "De diepe kloof-",
         "SOORT":  "A",
         "Scenarist":  "Goscinny René",
         "Tekenaar":  "Uderzo Albert",
@@ -315,6 +315,15 @@
         "Uitgever":  "Les éditions Albert René"
     },
     {
+        "datum":  "2023-11-27",
+        "TITEL":  "Cleopatra",
+        "SOORT":  "A",
+        "Scenarist":  "Goscinny René",
+        "Tekenaar":  "Uderzo Albert",
+        "NUMMER":  7,
+        "Uitgever":  "Dargaud"
+    },
+    {
         "datum":  "2008-03-21",
         "TITEL":  "De strijd der stamhoofden",
         "SOORT":  "A",
@@ -324,12 +333,12 @@
         "Uitgever":  "Dargaud"
     },
     {
-        "datum":  "2023-11-27",
-        "TITEL":  "Cleopatra",
+        "datum":  "2000-01-01",
+        "TITEL":  "En de koperen ketel",
         "SOORT":  "A",
         "Scenarist":  "Goscinny René",
         "Tekenaar":  "Uderzo Albert",
-        "NUMMER":  7,
+        "NUMMER":  8,
         "Uitgever":  "Dargaud"
     },
     {
@@ -340,15 +349,6 @@
         "Tekenaar":  "Uderzo Albert",
         "NUMMER":  8,
         "Uitgever":  "Les éditions Albert René"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "En de koperen ketel",
-        "SOORT":  "A",
-        "Scenarist":  "Goscinny René",
-        "Tekenaar":  "Uderzo Albert",
-        "NUMMER":  8,
-        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2000-01-01",
@@ -423,6 +423,15 @@
         "Uitgever":  "Les éditions Albert René"
     },
     {
+        "datum":  "2023-11-27",
+        "TITEL":  "De lauwerkrans van Caesar",
+        "SOORT":  "A",
+        "Scenarist":  "Goscinny René",
+        "Tekenaar":  "Uderzo Albert",
+        "NUMMER":  17,
+        "Uitgever":  "Dargaud"
+    },
+    {
         "datum":  "2007-12-13",
         "TITEL":  "De romeinse Lusthof",
         "SOORT":  "A",
@@ -433,11 +442,11 @@
     },
     {
         "datum":  "2023-11-27",
-        "TITEL":  "De lauwerkrans van Caesar",
+        "TITEL":  "The normans",
         "SOORT":  "A",
         "Scenarist":  "Goscinny René",
         "Tekenaar":  "Uderzo Albert",
-        "NUMMER":  17,
+        "NUMMER":  20,
         "Uitgever":  "Dargaud"
     },
     {
@@ -448,15 +457,6 @@
         "Tekenaar":  "Uderzo Albert",
         "NUMMER":  20,
         "Uitgever":  "Hachette"
-    },
-    {
-        "datum":  "2023-11-27",
-        "TITEL":  "The normans",
-        "SOORT":  "A",
-        "Scenarist":  "Goscinny René",
-        "Tekenaar":  "Uderzo Albert",
-        "NUMMER":  20,
-        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2007-12-13",
@@ -987,6 +987,15 @@
         "Scenarist":  "Valerie Mangin",
         "Tekenaar":  "Thierry Demarez",
         "NUMMER":  16,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2026-08-20",
+        "TITEL":  "De meester van de maskers",
+        "SOORT":  "ALS",
+        "Scenarist":  "Valerie Mangin",
+        "Tekenaar":  "Thierry Demarez",
+        "NUMMER":  17,
         "Uitgever":  "Casterman"
     },
     {
@@ -1873,21 +1882,21 @@
     },
     {
         "datum":  "2017-07-01",
-        "TITEL":  "Auguria",
-        "SOORT":  "AU",
-        "Scenarist":  "Peter Nuyten",
-        "Tekenaar":  "Peter Nuyten",
-        "NUMMER":  1,
-        "Uitgever":  "Silvester"
-    },
-    {
-        "datum":  "2017-07-01",
         "TITEL":  "Gaeso Dux",
         "SOORT":  "AU",
         "Scenarist":  "Peter Nuyten",
         "Tekenaar":  "Peter Nuyten",
         "NUMMER":  1,
         "Uitgever":  "Arboris"
+    },
+    {
+        "datum":  "2017-07-01",
+        "TITEL":  "Auguria",
+        "SOORT":  "AU",
+        "Scenarist":  "Peter Nuyten",
+        "Tekenaar":  "Peter Nuyten",
+        "NUMMER":  1,
+        "Uitgever":  "Silvester"
     },
     {
         "datum":  "2000-01-01",
@@ -2503,19 +2512,19 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De Mijn (fam)",
+        "TITEL":  "De jungle van Manhattan (fam)",
         "SOORT":  "BN",
         "Scenarist":  "Meul Mark",
-        "Tekenaar":  "Van Lierde Patrick",
+        "Tekenaar":  "Broeckx Jef",
         "NUMMER":  null,
         "Uitgever":  "Standaard Uitgeverij"
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De jungle van Manhattan (fam)",
+        "TITEL":  "De Mijn (fam)",
         "SOORT":  "BN",
         "Scenarist":  "Meul Mark",
-        "Tekenaar":  "Broeckx Jef",
+        "Tekenaar":  "Van Lierde Patrick",
         "NUMMER":  null,
         "Uitgever":  "Standaard Uitgeverij"
     },
@@ -2827,7 +2836,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De val met de 100,000 spiesen",
+        "TITEL":  "Gisteren en vandaag",
         "SOORT":  "BP",
         "Scenarist":  "Greg",
         "Tekenaar":  "Dany",
@@ -2836,7 +2845,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Gisteren en vandaag",
+        "TITEL":  "De val met de 100,000 spiesen",
         "SOORT":  "BP",
         "Scenarist":  "Greg",
         "Tekenaar":  "Dany",
@@ -3498,6 +3507,15 @@
         "Scenarist":  "Duval",
         "Tekenaar":  "Emem",
         "NUMMER":  15,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2026-08-20",
+        "TITEL":  "Code rood",
+        "SOORT":  "CMC",
+        "Scenarist":  "Duval",
+        "Tekenaar":  "Emem",
+        "NUMMER":  16,
         "Uitgever":  "Daedalus"
     },
     {
@@ -7335,11 +7353,11 @@
         "Uitgever":  "Daedalus"
     },
     {
-        "datum":  "2014-07-13",
-        "TITEL":  "Het laatste schot(irs team)",
+        "datum":  "2013-08-01",
+        "TITEL":  "Football connection (irs team)",
         "SOORT":  "IR",
         "Scenarist":  "Desberg",
-        "Tekenaar":  "Koller",
+        "Tekenaar":  "Vrancken",
         "NUMMER":  null,
         "Uitgever":  "Le Lombard"
     },
@@ -7353,11 +7371,11 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2013-08-01",
-        "TITEL":  "Football connection (irs team)",
+        "datum":  "2014-07-13",
+        "TITEL":  "Het laatste schot(irs team)",
         "SOORT":  "IR",
         "Scenarist":  "Desberg",
-        "Tekenaar":  "Vrancken",
+        "Tekenaar":  "Koller",
         "NUMMER":  null,
         "Uitgever":  "Le Lombard"
     },
@@ -7425,20 +7443,20 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2006-01-01",
-        "TITEL":  "Corporate America",
-        "SOORT":  "IR",
-        "Scenarist":  "Desberg",
-        "Tekenaar":  "Vrancken",
-        "NUMMER":  7,
-        "Uitgever":  "Le Lombard"
-    },
-    {
         "datum":  "2011-08-13",
         "TITEL":  "Alll Watcher : Het financiele zwarte gat",
         "SOORT":  "IR",
         "Scenarist":  "Desberg",
         "Tekenaar":  "Bourgne",
+        "NUMMER":  7,
+        "Uitgever":  "Le Lombard"
+    },
+    {
+        "datum":  "2006-01-01",
+        "TITEL":  "Corporate America",
+        "SOORT":  "IR",
+        "Scenarist":  "Desberg",
+        "Tekenaar":  "Vrancken",
         "NUMMER":  7,
         "Uitgever":  "Le Lombard"
     },
@@ -7488,8 +7506,8 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2010-07-01",
-        "TITEL":  "All Watcher : Petra",
+        "datum":  "2010-10-01",
+        "TITEL":  "In de naam van de president",
         "SOORT":  "IR",
         "Scenarist":  "Desberg",
         "Tekenaar":  "Queirex",
@@ -7497,8 +7515,8 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2010-10-01",
-        "TITEL":  "In de naam van de president",
+        "datum":  "2010-07-01",
+        "TITEL":  "All Watcher : Petra",
         "SOORT":  "IR",
         "Scenarist":  "Desberg",
         "Tekenaar":  "Queirex",
@@ -7542,20 +7560,20 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2010-12-18",
-        "TITEL":  "Alll Watcher : Mia Mai",
-        "SOORT":  "IR",
-        "Scenarist":  "Desberg",
-        "Tekenaar":  "Bourgne",
-        "NUMMER":  15,
-        "Uitgever":  "Le Lombard"
-    },
-    {
         "datum":  "2014-12-19",
         "TITEL":  "De meerwaarde van de dood",
         "SOORT":  "IR",
         "Scenarist":  "Desberg",
         "Tekenaar":  "Vrancken",
+        "NUMMER":  15,
+        "Uitgever":  "Le Lombard"
+    },
+    {
+        "datum":  "2010-12-18",
+        "TITEL":  "Alll Watcher : Mia Mai",
+        "SOORT":  "IR",
+        "Scenarist":  "Desberg",
+        "Tekenaar":  "Bourgne",
         "NUMMER":  15,
         "Uitgever":  "Le Lombard"
     },
@@ -7660,7 +7678,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "het schatteneiland (fam)",
+        "TITEL":  "De verborgen kroon (fam)",
         "SOORT":  "J",
         "Scenarist":  "De Rop Edward",
         "Tekenaar":  "De Rop Edward",
@@ -7669,7 +7687,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De verborgen kroon (fam)",
+        "TITEL":  "het schatteneiland (fam)",
         "SOORT":  "J",
         "Scenarist":  "De Rop Edward",
         "Tekenaar":  "De Rop Edward",
@@ -7876,33 +7894,6 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De luchtfietsers-Leve Kabouterland",
-        "SOORT":  "JO",
-        "Scenarist":  "Nys Jef",
-        "Tekenaar":  "Nys Jef",
-        "NUMMER":  null,
-        "Uitgever":  "Het Volk"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "De super popzanger-De zonnebol",
-        "SOORT":  "JO",
-        "Scenarist":  "Nys Jef",
-        "Tekenaar":  "Nys Jef",
-        "NUMMER":  null,
-        "Uitgever":  "Het Volk"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "De regenbom-Prinsesje guldenvlecht gered",
-        "SOORT":  "JO",
-        "Scenarist":  "Nys Jef",
-        "Tekenaar":  "Nys Jef",
-        "NUMMER":  null,
-        "Uitgever":  "Het Volk"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "De appelvreters",
         "SOORT":  "JO",
         "Scenarist":  "Nys Jef",
@@ -7921,7 +7912,34 @@
     },
     {
         "datum":  "2000-01-01",
+        "TITEL":  "De super popzanger-De zonnebol",
+        "SOORT":  "JO",
+        "Scenarist":  "Nys Jef",
+        "Tekenaar":  "Nys Jef",
+        "NUMMER":  null,
+        "Uitgever":  "Het Volk"
+    },
+    {
+        "datum":  "2000-01-01",
         "TITEL":  "De valse Picasso-L\u0026S in Elfenland",
+        "SOORT":  "JO",
+        "Scenarist":  "Nys Jef",
+        "Tekenaar":  "Nys Jef",
+        "NUMMER":  null,
+        "Uitgever":  "Het Volk"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De luchtfietsers-Leve Kabouterland",
+        "SOORT":  "JO",
+        "Scenarist":  "Nys Jef",
+        "Tekenaar":  "Nys Jef",
+        "NUMMER":  null,
+        "Uitgever":  "Het Volk"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De regenbom-Prinsesje guldenvlecht gered",
         "SOORT":  "JO",
         "Scenarist":  "Nys Jef",
         "Tekenaar":  "Nys Jef",
@@ -8542,7 +8560,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Raket naar de maan",
+        "TITEL":  "De sigaren van de farao",
         "SOORT":  "K",
         "Scenarist":  "Hergé",
         "Tekenaar":  "Hergé",
@@ -8551,7 +8569,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De sigaren van de farao",
+        "TITEL":  "Raket naar de maan",
         "SOORT":  "K",
         "Scenarist":  "Hergé",
         "Tekenaar":  "Hergé",
@@ -10027,7 +10045,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Alles is een vrouwen geschiedenis",
+        "TITEL":  "Alles is een vrouwengeschiedenis\u0027",
         "SOORT":  "L",
         "Scenarist":  "Lapière Denis",
         "Tekenaar":  "Mezzomo",
@@ -10036,7 +10054,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Alles is een vrouwengeschiedenis\u0027",
+        "TITEL":  "Alles is een vrouwen geschiedenis",
         "SOORT":  "L",
         "Scenarist":  "Lapière Denis",
         "Tekenaar":  "Mezzomo",
@@ -10126,15 +10144,6 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Lange Wapper en het magisch vierkant",
-        "SOORT":  "LA",
-        "Scenarist":  "Camarasa R. Folch y",
-        "Tekenaar":  "Madorell J.M.",
-        "NUMMER":  null,
-        "Uitgever":  "Het Volk"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "Lange Wapper aan de Noordpool",
         "SOORT":  "LA",
         "Scenarist":  "Camarasa R. Folch y",
@@ -10145,6 +10154,15 @@
     {
         "datum":  "2000-01-01",
         "TITEL":  "De daverende avonturen van Lange Wapper",
+        "SOORT":  "LA",
+        "Scenarist":  "Camarasa R. Folch y",
+        "Tekenaar":  "Madorell J.M.",
+        "NUMMER":  null,
+        "Uitgever":  "Het Volk"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Lange Wapper en het magisch vierkant",
         "SOORT":  "LA",
         "Scenarist":  "Camarasa R. Folch y",
         "Tekenaar":  "Madorell J.M.",
@@ -10287,6 +10305,24 @@
         "Uitgever":  "Dupuis"
     },
     {
+        "datum":  "2000-01-01",
+        "TITEL":  "Oorlog of vrede",
+        "SOORT":  "LB",
+        "Scenarist":  "Charlier Jean-Michel",
+        "Tekenaar":  "Giraud Jean",
+        "NUMMER":  null,
+        "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2007-11-30",
+        "TITEL":  "Apachen",
+        "SOORT":  "LB",
+        "Scenarist":  "Corteggiani François",
+        "Tekenaar":  "Blanc-Dumont Michel",
+        "NUMMER":  null,
+        "Uitgever":  "Dargaud"
+    },
+    {
         "datum":  "2016-04-01",
         "TITEL":  "Het konvooi van de ballingen",
         "SOORT":  "LB",
@@ -10306,29 +10342,20 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Oorlog of vrede",
-        "SOORT":  "LB",
-        "Scenarist":  "Charlier Jean-Michel",
-        "Tekenaar":  "Giraud Jean",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
-        "datum":  "2007-11-30",
-        "TITEL":  "Apachen",
-        "SOORT":  "LB",
-        "Scenarist":  "Corteggiani François",
-        "Tekenaar":  "Blanc-Dumont Michel",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "De genadeloze achtervolging",
         "SOORT":  "LB",
         "Scenarist":  "Corteggiani François",
         "Tekenaar":  "Wilson Colin",
         "NUMMER":  null,
+        "Uitgever":  "Novedi"
+    },
+    {
+        "datum":  "2001-10-03",
+        "TITEL":  "De helse trein",
+        "SOORT":  "LB",
+        "Scenarist":  "Charlier Jean-Michel",
+        "Tekenaar":  "Wilson",
+        "NUMMER":  1,
         "Uitgever":  "Novedi"
     },
     {
@@ -10339,15 +10366,6 @@
         "Tekenaar":  "Giraud Jean",
         "NUMMER":  1,
         "Uitgever":  "Dargaud"
-    },
-    {
-        "datum":  "2001-10-03",
-        "TITEL":  "De helse trein",
-        "SOORT":  "LB",
-        "Scenarist":  "Charlier Jean-Michel",
-        "Tekenaar":  "Wilson",
-        "NUMMER":  1,
-        "Uitgever":  "Novedi"
     },
     {
         "datum":  "2000-01-01",
@@ -10378,21 +10396,21 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De laatste kaart",
-        "SOORT":  "LB",
-        "Scenarist":  "Charlier Jean-Michel",
-        "Tekenaar":  "Giraud Jean",
-        "NUMMER":  24,
-        "Uitgever":  "Novedi"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "Geronimo de Apache",
         "SOORT":  "LB",
         "Scenarist":  "Charlier Jean-Michel",
         "Tekenaar":  "Giraud Jean",
         "NUMMER":  24,
         "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De laatste kaart",
+        "SOORT":  "LB",
+        "Scenarist":  "Charlier Jean-Michel",
+        "Tekenaar":  "Giraud Jean",
+        "NUMMER":  24,
+        "Uitgever":  "Novedi"
     },
     {
         "datum":  "2000-01-01",
@@ -10413,15 +10431,6 @@
         "Uitgever":  "Novedi"
     },
     {
-        "datum":  "2000-01-01",
-        "TITEL":  "Terreur over Kansas",
-        "SOORT":  "LB",
-        "Scenarist":  "Charlier Jean-Michel",
-        "Tekenaar":  "Wilson Colin",
-        "NUMMER":  27,
-        "Uitgever":  "Novedi"
-    },
-    {
         "datum":  "2003-10-11",
         "TITEL":  "OK Corral",
         "SOORT":  "LB",
@@ -10429,6 +10438,15 @@
         "Tekenaar":  "Giraud Jean",
         "NUMMER":  27,
         "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Terreur over Kansas",
+        "SOORT":  "LB",
+        "Scenarist":  "Charlier Jean-Michel",
+        "Tekenaar":  "Wilson Colin",
+        "NUMMER":  27,
+        "Uitgever":  "Novedi"
     },
     {
         "datum":  "2005-03-26",
@@ -10674,6 +10692,15 @@
         "Uitgever":  "Daedalus"
     },
     {
+        "datum":  "2026-08-20",
+        "TITEL":  "Moge god ons bewaren",
+        "SOORT":  "LE",
+        "Scenarist":  "Andge",
+        "Tekenaar":  "Swolfs Yves",
+        "NUMMER":  11,
+        "Uitgever":  "Daedalus"
+    },
+    {
         "datum":  "2006-09-12",
         "TITEL":  "Folianne",
         "SOORT":  "LFA",
@@ -10711,18 +10738,9 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De Daltons op de bruiloft",
+        "TITEL":  "Spokenjacht",
         "SOORT":  "LL",
-        "Scenarist":  "Fauche X. - Leturgie J.",
-        "Tekenaar":  "Morris",
-        "NUMMER":  null,
-        "Uitgever":  "Lucky Productions"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Belle Starr",
-        "SOORT":  "LL",
-        "Scenarist":  "Fauche X.",
+        "Scenarist":  "Banda Lo Hartag Van",
         "Tekenaar":  "Morris",
         "NUMMER":  null,
         "Uitgever":  "Lucky Productions"
@@ -10738,9 +10756,18 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Spokenjacht",
+        "TITEL":  "De Daltons op de bruiloft",
         "SOORT":  "LL",
-        "Scenarist":  "Banda Lo Hartag Van",
+        "Scenarist":  "Fauche X. - Leturgie J.",
+        "Tekenaar":  "Morris",
+        "NUMMER":  null,
+        "Uitgever":  "Lucky Productions"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Belle Starr",
+        "SOORT":  "LL",
+        "Scenarist":  "Fauche X.",
         "Tekenaar":  "Morris",
         "NUMMER":  null,
         "Uitgever":  "Lucky Productions"
@@ -10837,21 +10864,21 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De Karavaan",
-        "SOORT":  "LL",
-        "Scenarist":  "Goscinny René",
-        "Tekenaar":  "Morris",
-        "NUMMER":  24,
-        "Uitgever":  "Dupuis"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "The Daily Star",
         "SOORT":  "LL",
         "Scenarist":  "Fauche X. - Leturgie J.",
         "Tekenaar":  "Morris",
         "NUMMER":  24,
         "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De Karavaan",
+        "SOORT":  "LL",
+        "Scenarist":  "Goscinny René",
+        "Tekenaar":  "Morris",
+        "NUMMER":  24,
+        "Uitgever":  "Dupuis"
     },
     {
         "datum":  "2000-01-01",
@@ -10864,21 +10891,21 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De pony express",
-        "SOORT":  "LL",
-        "Scenarist":  "Goscinny René",
-        "Tekenaar":  "Morris",
-        "NUMMER":  29,
-        "Uitgever":  "Dupuis"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "Prikkeldraad in de Prairie",
         "SOORT":  "LL",
         "Scenarist":  "Fauche X. - Leturgie J.",
         "Tekenaar":  "Morris",
         "NUMMER":  29,
         "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De pony express",
+        "SOORT":  "LL",
+        "Scenarist":  "Goscinny René",
+        "Tekenaar":  "Morris",
+        "NUMMER":  29,
+        "Uitgever":  "Dupuis"
     },
     {
         "datum":  "2007-09-01",
@@ -11634,6 +11661,15 @@
         "Scenarist":  "Istin",
         "Tekenaar":  "Cueo",
         "NUMMER":  9,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2026-08-20",
+        "TITEL":  "Disha",
+        "SOORT":  "MAGI",
+        "Scenarist":  "Istin",
+        "Tekenaar":  "Cueo",
+        "NUMMER":  10,
         "Uitgever":  "Daedalus"
     },
     {
@@ -12475,7 +12511,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Moea papoea",
+        "TITEL":  "De kroon van Neptunus",
         "SOORT":  "N",
         "Scenarist":  "Marc Sleen",
         "Tekenaar":  "Marc Sleen",
@@ -12484,7 +12520,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De kroon van Neptunus",
+        "TITEL":  "Moea papoea",
         "SOORT":  "N",
         "Scenarist":  "Marc Sleen",
         "Tekenaar":  "Marc Sleen",
@@ -13357,7 +13393,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De hel van Solferino",
+        "TITEL":  "Het holle huis (fam)",
         "SOORT":  "RB",
         "Scenarist":  "Vandersteen Willy",
         "Tekenaar":  "Vandersteen Willy",
@@ -13366,7 +13402,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Het holle huis (fam)",
+        "TITEL":  "De hel van Solferino",
         "SOORT":  "RB",
         "Scenarist":  "Vandersteen Willy",
         "Tekenaar":  "Vandersteen Willy",
@@ -14419,7 +14455,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De bewaker",
+        "TITEL":  "De bewaker\u0027",
         "SOORT":  "RR",
         "Scenarist":  "Biddeloo Karel",
         "Tekenaar":  "Biddeloo Karel",
@@ -14428,7 +14464,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De bewaker\u0027",
+        "TITEL":  "De bewaker",
         "SOORT":  "RR",
         "Scenarist":  "Biddeloo Karel",
         "Tekenaar":  "Biddeloo Karel",
@@ -15219,26 +15255,17 @@
         "Uitgever":  "Standaard Uitgeverij"
     },
     {
-        "datum":  "2018-06-26",
-        "TITEL":  "Origine 1 : Takeo",
+        "datum":  "2014-12-24",
+        "TITEL":  "Legenden 2 : De ruil",
         "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio",
-        "Tekenaar":  "Vax",
+        "Scenarist":  "Di Giorgio  Jean-Francois",
+        "Tekenaar":  "Genêt Frédéric",
         "NUMMER":  null,
         "Uitgever":  "Daedalus"
     },
     {
-        "datum":  "2020-05-16",
-        "TITEL":  "Origine 2 : de wierookmeester",
-        "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio",
-        "Tekenaar":  "Vax",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2022-07-15",
-        "TITEL":  "Legenden 7 : Het eiland van de zwarte Yokai",
+        "datum":  "2024-05-29",
+        "TITEL":  "Legenden 9 : De smaak van staal",
         "SOORT":  "SAM",
         "Scenarist":  "Di Giorgio",
         "Tekenaar":  "Mormile",
@@ -15255,56 +15282,11 @@
         "Uitgever":  "Daedalus"
     },
     {
-        "datum":  "2013-11-01",
-        "TITEL":  "Legenden 1 : Furiko",
-        "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio  Jean-Francois",
-        "Tekenaar":  "Genêt Frédéric",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2023-03-12",
-        "TITEL":  "Origine 3 : Eiko",
+        "datum":  "2018-06-26",
+        "TITEL":  "Origine 1 : Takeo",
         "SOORT":  "SAM",
         "Scenarist":  "Di Giorgio",
         "Tekenaar":  "Vax",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2024-03-16",
-        "TITEL":  "Origine 4 : De leer van een vader",
-        "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio",
-        "Tekenaar":  "Boutin-Gagné",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2019-10-30",
-        "TITEL":  "Legenden 5 : Uiterlijke Schijn",
-        "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio",
-        "Tekenaar":  "Mormile",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2014-12-24",
-        "TITEL":  "Legenden 2 : De ruil",
-        "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio  Jean-Francois",
-        "Tekenaar":  "Genêt Frédéric",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2020-11-28",
-        "TITEL":  "Legenden 6 : Reiko",
-        "SOORT":  "SAM",
-        "Scenarist":  "Di Giorgio",
-        "Tekenaar":  "Mormile",
         "NUMMER":  null,
         "Uitgever":  "Daedalus"
     },
@@ -15318,8 +15300,17 @@
         "Uitgever":  "Daedalus"
     },
     {
-        "datum":  "2024-05-29",
-        "TITEL":  "Legenden 9 : De smaak van staal",
+        "datum":  "2017-12-17",
+        "TITEL":  "Legenden 3 :Het rode ochtendgloren",
+        "SOORT":  "SAM",
+        "Scenarist":  "Di Giorgio  Jean-Francois",
+        "Tekenaar":  "Genêt Frédéric",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2019-10-30",
+        "TITEL":  "Legenden 5 : Uiterlijke Schijn",
         "SOORT":  "SAM",
         "Scenarist":  "Di Giorgio",
         "Tekenaar":  "Mormile",
@@ -15327,8 +15318,53 @@
         "Uitgever":  "Daedalus"
     },
     {
-        "datum":  "2017-12-17",
-        "TITEL":  "Legenden 3 :Het rode ochtendgloren",
+        "datum":  "2022-07-15",
+        "TITEL":  "Legenden 7 : Het eiland van de zwarte Yokai",
+        "SOORT":  "SAM",
+        "Scenarist":  "Di Giorgio",
+        "Tekenaar":  "Mormile",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2024-03-16",
+        "TITEL":  "Origine 4 : De leer van een vader",
+        "SOORT":  "SAM",
+        "Scenarist":  "Di Giorgio",
+        "Tekenaar":  "Boutin-Gagné",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2020-05-16",
+        "TITEL":  "Origine 2 : de wierookmeester",
+        "SOORT":  "SAM",
+        "Scenarist":  "Di Giorgio",
+        "Tekenaar":  "Vax",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2020-11-28",
+        "TITEL":  "Legenden 6 : Reiko",
+        "SOORT":  "SAM",
+        "Scenarist":  "Di Giorgio",
+        "Tekenaar":  "Mormile",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2023-03-12",
+        "TITEL":  "Origine 3 : Eiko",
+        "SOORT":  "SAM",
+        "Scenarist":  "Di Giorgio",
+        "Tekenaar":  "Vax",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2013-11-01",
+        "TITEL":  "Legenden 1 : Furiko",
         "SOORT":  "SAM",
         "Scenarist":  "Di Giorgio  Jean-Francois",
         "Tekenaar":  "Genêt Frédéric",
@@ -16462,7 +16498,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Pezige peekaah (fam)",
+        "TITEL":  "Sprookjesnacht aan zee",
         "SOORT":  "SW",
         "Scenarist":  "Vandersteen Willy",
         "Tekenaar":  "Vandersteen Willy",
@@ -16480,61 +16516,7 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "De stenen broden=Les pains de Pierre",
-        "SOORT":  "SW",
-        "Scenarist":  "Vandersteen Willy",
-        "Tekenaar":  "Vandersteen Willy",
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
-    },
-    {
-        "datum":  "2000-01-01",
         "TITEL":  "Fata morgana",
-        "SOORT":  "SW",
-        "Scenarist":  "Vandersteen Willy",
-        "Tekenaar":  "Vandersteen Willy",
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Het geheim van de Kalmthoutse heide",
-        "SOORT":  "SW",
-        "Scenarist":  "Vandersteen Willy",
-        "Tekenaar":  "Vandersteen Willy",
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "De secreto gladiatorum",
-        "SOORT":  "SW",
-        "Scenarist":  "Vandersteen Willy",
-        "Tekenaar":  "Vandersteen Willy",
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Sprookjesnacht aan zee",
-        "SOORT":  "SW",
-        "Scenarist":  "Vandersteen Willy",
-        "Tekenaar":  "Vandersteen Willy",
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Spruiten voor Sprotje",
-        "SOORT":  "SW",
-        "Scenarist":  "Vandersteen Willy",
-        "Tekenaar":  "Vandersteen Willy",
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "De parel in de lotusbloem",
         "SOORT":  "SW",
         "Scenarist":  "Vandersteen Willy",
         "Tekenaar":  "Vandersteen Willy",
@@ -16552,7 +16534,61 @@
     },
     {
         "datum":  "2000-01-01",
+        "TITEL":  "Pezige peekaah (fam)",
+        "SOORT":  "SW",
+        "Scenarist":  "Vandersteen Willy",
+        "Tekenaar":  "Vandersteen Willy",
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De stenen broden=Les pains de Pierre",
+        "SOORT":  "SW",
+        "Scenarist":  "Vandersteen Willy",
+        "Tekenaar":  "Vandersteen Willy",
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Spruiten voor Sprotje",
+        "SOORT":  "SW",
+        "Scenarist":  "Vandersteen Willy",
+        "Tekenaar":  "Vandersteen Willy",
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
         "TITEL":  "ZEE ZON ZAND (stripboek)",
+        "SOORT":  "SW",
+        "Scenarist":  "Vandersteen Willy",
+        "Tekenaar":  "Vandersteen Willy",
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De secreto gladiatorum",
+        "SOORT":  "SW",
+        "Scenarist":  "Vandersteen Willy",
+        "Tekenaar":  "Vandersteen Willy",
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "De parel in de lotusbloem",
+        "SOORT":  "SW",
+        "Scenarist":  "Vandersteen Willy",
+        "Tekenaar":  "Vandersteen Willy",
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Het geheim van de Kalmthoutse heide",
         "SOORT":  "SW",
         "Scenarist":  "Vandersteen Willy",
         "Tekenaar":  "Vandersteen Willy",
@@ -17856,6 +17892,24 @@
         "Uitgever":  "Glénat"
     },
     {
+        "datum":  "2024-08-31",
+        "TITEL":  "Saighan",
+        "SOORT":  "TH",
+        "Scenarist":  "Suezenko",
+        "Tekenaar":  "Yann",
+        "NUMMER":  null,
+        "Uitgever":  "Le Lombard"
+    },
+    {
+        "datum":  "2024-03-16",
+        "TITEL":  "Wendigo",
+        "SOORT":  "TH",
+        "Scenarist":  "Rouge",
+        "Tekenaar":  "Duval",
+        "NUMMER":  null,
+        "Uitgever":  "Le Lombard"
+    },
+    {
         "datum":  "2026-03-23",
         "TITEL":  "De ambergodin",
         "SOORT":  "TH",
@@ -17879,24 +17933,6 @@
         "SOORT":  "TH",
         "Scenarist":  "Etien",
         "Tekenaar":  "Legrand",
-        "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
-    },
-    {
-        "datum":  "2024-08-31",
-        "TITEL":  "Saighan",
-        "SOORT":  "TH",
-        "Scenarist":  "Suezenko",
-        "Tekenaar":  "Yann",
-        "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
-    },
-    {
-        "datum":  "2024-03-16",
-        "TITEL":  "Wendigo",
-        "SOORT":  "TH",
-        "Scenarist":  "Rouge",
-        "Tekenaar":  "Duval",
         "NUMMER":  null,
         "Uitgever":  "Le Lombard"
     },
@@ -18693,6 +18729,15 @@
         "Uitgever":  "Daedalus"
     },
     {
+        "datum":  "2026-08-20",
+        "TITEL":  "De vrouw die te veel wist",
+        "SOORT":  "TR",
+        "Scenarist":  "Duval",
+        "Tekenaar":  "Quet",
+        "NUMMER":  16,
+        "Uitgever":  "Daedalus"
+    },
+    {
         "datum":  "2000-01-01",
         "TITEL":  "Trollenmythes",
         "SOORT":  "TT",
@@ -19134,31 +19179,13 @@
         "Uitgever":  "Talent"
     },
     {
-        "datum":  "2010-07-01",
-        "TITEL":  "Zwarte Elfen ( Wet van de chaos 1)",
+        "datum":  "2010-08-07",
+        "TITEL":  "Het geheim van Cixi (Cixi Van Troy 1 )",
         "SOORT":  "VA",
-        "Scenarist":  "Falba",
-        "Tekenaar":  "Tasiaux",
+        "Scenarist":  "Arleston",
+        "Tekenaar":  "Vatine",
         "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2008-08-01",
-        "TITEL":  "Mag het iets meer zijn (vrouwen int wit 28)",
-        "SOORT":  "VA",
-        "Scenarist":  "Cauvin",
-        "Tekenaar":  "Bercovici",
-        "NUMMER":  null,
-        "Uitgever":  "Dupuis"
-    },
-    {
-        "datum":  "2008-08-01",
-        "TITEL":  "Het mysterie van Baharia (challenger 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Tramaux",
-        "Tekenaar":  "Deubelbeiss",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
+        "Uitgever":  "Uitgevery L"
     },
     {
         "datum":  "2008-08-01",
@@ -19170,13 +19197,22 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2013-11-01",
-        "TITEL":  "Excalibur kronieken : eerste lied : pendragon",
+        "datum":  "2016-01-01",
+        "TITEL":  "Amaury (Marie der draken 3)",
         "SOORT":  "VA",
-        "Scenarist":  "Istin",
-        "Tekenaar":  "Brion",
+        "Scenarist":  "Ange",
+        "Tekenaar":  "Demarez",
         "NUMMER":  null,
-        "Uitgever":  "Daedalus"
+        "Uitgever":  "Silvester"
+    },
+    {
+        "datum":  "2013-11-01",
+        "TITEL":  "Rani 4 : Meesteres",
+        "SOORT":  "VA",
+        "Scenarist":  "Van Hamme Jean",
+        "Tekenaar":  "Alcante",
+        "NUMMER":  null,
+        "Uitgever":  "Le Lombard"
     },
     {
         "datum":  "2009-12-01",
@@ -19207,30 +19243,21 @@
     },
     {
         "datum":  "2010-07-01",
-        "TITEL":  "Laona (Toran 2)",
+        "TITEL":  "Deel 1 (Namibia )",
         "SOORT":  "VA",
-        "Scenarist":  "Plongeon",
-        "Tekenaar":  "Peynet",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2016-06-01",
-        "TITEL":  "Wilhelm-100, De techno Admiraal ( Meta-Baron)",
-        "SOORT":  "VA",
-        "Scenarist":  "Jerry Frissen",
-        "Tekenaar":  "Valentin Secher",
+        "Scenarist":  "Leo \u0026 Rodolphe",
+        "Tekenaar":  "Marchal",
         "NUMMER":  null,
         "Uitgever":  "Dargaud"
     },
     {
-        "datum":  "2010-08-07",
-        "TITEL":  "Het geheim van Cixi (Cixi Van Troy 1 )",
+        "datum":  "2010-07-01",
+        "TITEL":  "Zwarte Elfen ( Wet van de chaos 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Arleston",
-        "Tekenaar":  "Vatine",
+        "Scenarist":  "Falba",
+        "Tekenaar":  "Tasiaux",
         "NUMMER":  null,
-        "Uitgever":  "Uitgevery L"
+        "Uitgever":  "Talent"
     },
     {
         "datum":  "2010-08-28",
@@ -19240,6 +19267,15 @@
         "Tekenaar":  "Dany",
         "NUMMER":  null,
         "Uitgever":  "Uitgevery L"
+    },
+    {
+        "datum":  "2013-11-01",
+        "TITEL":  "Excalibur kronieken : eerste lied : pendragon",
+        "SOORT":  "VA",
+        "Scenarist":  "Istin",
+        "Tekenaar":  "Brion",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
     },
     {
         "datum":  "2012-01-10",
@@ -19260,101 +19296,11 @@
         "Uitgever":  "Uitgevery L"
     },
     {
-        "datum":  "2012-07-01",
-        "TITEL":  "Rani 3 : Slavin",
+        "datum":  "2001-01-10",
+        "TITEL":  "Mesties (Lance Crow Dog 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Van Hamme Jean",
-        "Tekenaar":  "Alcante",
-        "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
-    },
-    {
-        "datum":  "2015-09-18",
-        "TITEL":  "Bagara (Norsto 1 )",
-        "SOORT":  "VA",
-        "Scenarist":  "Vanloffelt",
-        "Tekenaar":  "Ronzon",
-        "NUMMER":  null,
-        "Uitgever":  "Blitz"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Het seizoen van de assen - 1 - Voor Alles",
-        "SOORT":  "VA",
-        "Scenarist":  "Mouret",
-        "Tekenaar":  "Meddour",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2010-07-01",
-        "TITEL":  "Deel 1 (Namibia )",
-        "SOORT":  "VA",
-        "Scenarist":  "Leo \u0026 Rodolphe",
-        "Tekenaar":  "Marchal",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
-        "datum":  "2006-11-28",
-        "TITEL":  "Wolverine 77",
-        "SOORT":  "VA",
-        "Scenarist":  "Rucka",
-        "Tekenaar":  "Robertson",
-        "NUMMER":  null,
-        "Uitgever":  null
-    },
-    {
-        "datum":  "2006-02-18",
-        "TITEL":  "Zwart bloed (nachtelijk rood 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Nhieu",
-        "Tekenaar":  "Nhieu",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2005-12-15",
-        "TITEL":  "Afrodite (Hersenschimmen 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Mosdi",
-        "Tekenaar":  "Béhé",
-        "NUMMER":  null,
-        "Uitgever":  "Blitz"
-    },
-    {
-        "datum":  "2005-12-15",
-        "TITEL":  "Ewane Nagowitch (een doodgewone waanzin 2)",
-        "SOORT":  "VA",
-        "Scenarist":  "Godard",
-        "Tekenaar":  "Bonnet",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2006-03-22",
-        "TITEL":  "Lagna (Toran 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Plongeon",
-        "Tekenaar":  "Peynet",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2006-05-29",
-        "TITEL":  "Laona (Toran 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Plongeon",
-        "Tekenaar":  "Peynet",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2014-05-24",
-        "TITEL":  "Schemerlanden ( Lea 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Plongeon",
-        "Tekenaar":  "Mounge",
+        "Scenarist":  "Perrotin Serge",
+        "Tekenaar":  "Séjourné Gaël",
         "NUMMER":  null,
         "Uitgever":  "Talent"
     },
@@ -19368,13 +19314,49 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2006-11-23",
-        "TITEL":  "De oslaanse Citadel (Asceltis 1)",
+        "datum":  "2012-07-01",
+        "TITEL":  "Rani 3 : Slavin",
         "SOORT":  "VA",
-        "Scenarist":  "Jarry",
-        "Tekenaar":  "Istin",
+        "Scenarist":  "Van Hamme Jean",
+        "Tekenaar":  "Alcante",
+        "NUMMER":  null,
+        "Uitgever":  "Le Lombard"
+    },
+    {
+        "datum":  "2010-07-01",
+        "TITEL":  "Laona (Toran 2)",
+        "SOORT":  "VA",
+        "Scenarist":  "Plongeon",
+        "Tekenaar":  "Peynet",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2006-11-30",
+        "TITEL":  "Bescherming verzekerd (Jerry Mail 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Lehir",
+        "Tekenaar":  "Diaz",
         "NUMMER":  null,
         "Uitgever":  "Blitz"
+    },
+    {
+        "datum":  "2008-08-01",
+        "TITEL":  "Het mysterie van Baharia (challenger 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Tramaux",
+        "Tekenaar":  "Deubelbeiss",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2006-05-29",
+        "TITEL":  "Laona (Toran 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Plongeon",
+        "Tekenaar":  "Peynet",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
     },
     {
         "datum":  "2007-07-24",
@@ -19386,6 +19368,24 @@
         "Uitgever":  "Le Lombard"
     },
     {
+        "datum":  "2006-11-23",
+        "TITEL":  "De oslaanse Citadel (Asceltis 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Jarry",
+        "Tekenaar":  "Istin",
+        "NUMMER":  null,
+        "Uitgever":  "Blitz"
+    },
+    {
+        "datum":  "2006-11-28",
+        "TITEL":  "Wolverine 77",
+        "SOORT":  "VA",
+        "Scenarist":  "Rucka",
+        "Tekenaar":  "Robertson",
+        "NUMMER":  null,
+        "Uitgever":  null
+    },
+    {
         "datum":  "2006-11-28",
         "TITEL":  "Platte humor (Kids van Troy 1)",
         "SOORT":  "VA",
@@ -19395,13 +19395,13 @@
         "Uitgever":  "Talent"
     },
     {
-        "datum":  "2006-11-30",
-        "TITEL":  "On air (Reality Show 1)",
+        "datum":  "2006-03-22",
+        "TITEL":  "Lagna (Toran 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Porcel Francis",
-        "Tekenaar":  "Morvan J.D.",
+        "Scenarist":  "Plongeon",
+        "Tekenaar":  "Peynet",
         "NUMMER":  null,
-        "Uitgever":  "Dargaud"
+        "Uitgever":  "Talent"
     },
     {
         "datum":  "2006-11-30",
@@ -19413,13 +19413,13 @@
         "Uitgever":  "Blitz"
     },
     {
-        "datum":  "2006-11-30",
-        "TITEL":  "Bescherming verzekerd (Jerry Mail 1)",
+        "datum":  "2007-07-24",
+        "TITEL":  "Gael (Kabbala 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Lehir",
-        "Tekenaar":  "Diaz",
+        "Scenarist":  "Charlet Gregory",
+        "Tekenaar":  "Charlet Gregory",
         "NUMMER":  null,
-        "Uitgever":  "Blitz"
+        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2006-12-04",
@@ -19440,24 +19440,6 @@
         "Uitgever":  "Talent"
     },
     {
-        "datum":  "2005-12-15",
-        "TITEL":  "Het brandmerk (Vello 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Bonnet F",
-        "Tekenaar":  "Bonnet F",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2007-07-24",
-        "TITEL":  "Gael (Kabbala 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Charlet Gregory",
-        "Tekenaar":  "Charlet Gregory",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
         "datum":  "2006-12-14",
         "TITEL":  "Hopeloos (Witness4 1.)",
         "SOORT":  "VA",
@@ -19467,67 +19449,31 @@
         "Uitgever":  "Blitz"
     },
     {
-        "datum":  "2013-11-01",
-        "TITEL":  "Rani 4 : Meesteres",
+        "datum":  "2005-12-15",
+        "TITEL":  "Het brandmerk (Vello 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Van Hamme Jean",
-        "Tekenaar":  "Alcante",
+        "Scenarist":  "Bonnet F",
+        "Tekenaar":  "Bonnet F",
         "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
+        "Uitgever":  "Talent"
     },
     {
-        "datum":  "2011-05-01",
-        "TITEL":  "Deel 2 (Namibia )",
+        "datum":  "2005-12-15",
+        "TITEL":  "Ewane Nagowitch (een doodgewone waanzin 2)",
         "SOORT":  "VA",
-        "Scenarist":  "Leo \u0026 Rodolphe",
-        "Tekenaar":  "Marchal",
+        "Scenarist":  "Godard",
+        "Tekenaar":  "Bonnet",
         "NUMMER":  null,
-        "Uitgever":  "Dargaud"
+        "Uitgever":  "Talent"
     },
     {
-        "datum":  "2014-05-24",
-        "TITEL":  "Surcouf (1 De geboorte van een legende)",
+        "datum":  "2005-12-15",
+        "TITEL":  "Afrodite (Hersenschimmen 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Eric Surcouf - Delalande",
-        "Tekenaar":  "Guy Michel",
+        "Scenarist":  "Mosdi",
+        "Tekenaar":  "Béhé",
         "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2014-05-24",
-        "TITEL":  "Het dodenrijk (Challenger 2)",
-        "SOORT":  "VA",
-        "Scenarist":  "Deubelbeiss",
-        "Tekenaar":  "Tramaux",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2007-07-24",
-        "TITEL":  "De honden van god (Millenium 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Nolane Richard d.",
-        "Tekenaar":  "Miville-Deschenes Francois",
-        "NUMMER":  null,
-        "Uitgever":  "Arboris"
-    },
-    {
-        "datum":  "2014-05-24",
-        "TITEL":  "Het mysterie van Baharia (Challenger 2)",
-        "SOORT":  "VA",
-        "Scenarist":  "Deubelbeiss",
-        "Tekenaar":  "Tramaux",
-        "NUMMER":  null,
-        "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2014-12-24",
-        "TITEL":  "In de nacht der tijden (De strijd om het vuur 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Roudier",
-        "Tekenaar":  "Champelovier",
-        "NUMMER":  null,
-        "Uitgever":  null
+        "Uitgever":  "Blitz"
     },
     {
         "datum":  "2007-07-24",
@@ -19539,31 +19485,13 @@
         "Uitgever":  null
     },
     {
-        "datum":  "2006-09-02",
-        "TITEL":  "Brandstapel (Clan van de draak)",
+        "datum":  "2006-11-30",
+        "TITEL":  "On air (Reality Show 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Corbeyran",
-        "Tekenaar":  "Suro Michel",
+        "Scenarist":  "Porcel Francis",
+        "Tekenaar":  "Morvan J.D.",
         "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2006-09-02",
-        "TITEL":  "Het koninkrijk van vuur (Diosamante)",
-        "SOORT":  "VA",
-        "Scenarist":  "Gal",
-        "Tekenaar":  "Jodorowsky",
-        "NUMMER":  null,
-        "Uitgever":  "Arboris"
-    },
-    {
-        "datum":  "2006-09-02",
-        "TITEL":  "Het zwevende woud (Finn 1)",
-        "SOORT":  "VA",
-        "Scenarist":  null,
-        "Tekenaar":  "Arnaud Letterier",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
+        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2006-09-02",
@@ -19575,31 +19503,22 @@
         "Uitgever":  "Blitz"
     },
     {
-        "datum":  "2006-09-02",
-        "TITEL":  "Het verbond (De aquanauten 3)",
+        "datum":  "2014-12-24",
+        "TITEL":  "In de nacht der tijden (De strijd om het vuur 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Parnotte",
-        "Tekenaar":  "Mallie",
+        "Scenarist":  "Roudier",
+        "Tekenaar":  "Champelovier",
         "NUMMER":  null,
-        "Uitgever":  "Blitz"
+        "Uitgever":  null
     },
     {
-        "datum":  "2007-07-24",
-        "TITEL":  "Terreur",
+        "datum":  "2014-05-24",
+        "TITEL":  "Surcouf (1 De geboorte van een legende)",
         "SOORT":  "VA",
-        "Scenarist":  "Follet",
-        "Tekenaar":  "Duchateau Andre Paul",
+        "Scenarist":  "Eric Surcouf - Delalande",
+        "Tekenaar":  "Guy Michel",
         "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
-    },
-    {
-        "datum":  "2008-01-26",
-        "TITEL":  "Girodoess (Jeugdjaren van Navis 2)",
-        "SOORT":  "VA",
-        "Scenarist":  "Morvan / Buchet",
-        "Tekenaar":  "Munuera",
-        "NUMMER":  null,
-        "Uitgever":  "Arboris"
+        "Uitgever":  "Daedalus"
     },
     {
         "datum":  "2003-12-27",
@@ -19611,31 +19530,148 @@
         "Uitgever":  "The house of books"
     },
     {
-        "datum":  "2000-01-01",
-        "TITEL":  "Het kind der duisternis (Aliot)",
+        "datum":  "2008-01-26",
+        "TITEL":  "Girodoess (Jeugdjaren van Navis 2)",
         "SOORT":  "VA",
-        "Scenarist":  "Jodorowsky Alexandro",
-        "Tekenaar":  "De La Fuente",
+        "Scenarist":  "Morvan / Buchet",
+        "Tekenaar":  "Munuera",
+        "NUMMER":  null,
+        "Uitgever":  "Arboris"
+    },
+    {
+        "datum":  "2011-05-01",
+        "TITEL":  "Deel 2 (Namibia )",
+        "SOORT":  "VA",
+        "Scenarist":  "Leo \u0026 Rodolphe",
+        "Tekenaar":  "Marchal",
         "NUMMER":  null,
         "Uitgever":  "Dargaud"
     },
     {
+        "datum":  "2006-09-02",
+        "TITEL":  "Brandstapel (Clan van de draak)",
+        "SOORT":  "VA",
+        "Scenarist":  "Corbeyran",
+        "Tekenaar":  "Suro Michel",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2007-07-24",
+        "TITEL":  "Terreur",
+        "SOORT":  "VA",
+        "Scenarist":  "Follet",
+        "Tekenaar":  "Duchateau Andre Paul",
+        "NUMMER":  null,
+        "Uitgever":  "Le Lombard"
+    },
+    {
+        "datum":  "2006-09-02",
+        "TITEL":  "Het zwevende woud (Finn 1)",
+        "SOORT":  "VA",
+        "Scenarist":  null,
+        "Tekenaar":  "Arnaud Letterier",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2008-08-01",
+        "TITEL":  "Mag het iets meer zijn (vrouwen int wit 28)",
+        "SOORT":  "VA",
+        "Scenarist":  "Cauvin",
+        "Tekenaar":  "Bercovici",
+        "NUMMER":  null,
+        "Uitgever":  "Dupuis"
+    },
+    {
+        "datum":  "2006-09-02",
+        "TITEL":  "Het verbond (De aquanauten 3)",
+        "SOORT":  "VA",
+        "Scenarist":  "Parnotte",
+        "Tekenaar":  "Mallie",
+        "NUMMER":  null,
+        "Uitgever":  "Blitz"
+    },
+    {
+        "datum":  "2014-05-24",
+        "TITEL":  "Het dodenrijk (Challenger 2)",
+        "SOORT":  "VA",
+        "Scenarist":  "Deubelbeiss",
+        "Tekenaar":  "Tramaux",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2014-05-24",
+        "TITEL":  "Het mysterie van Baharia (Challenger 2)",
+        "SOORT":  "VA",
+        "Scenarist":  "Deubelbeiss",
+        "Tekenaar":  "Tramaux",
+        "NUMMER":  null,
+        "Uitgever":  "Casterman"
+    },
+    {
+        "datum":  "2014-05-24",
+        "TITEL":  "Schemerlanden ( Lea 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Plongeon",
+        "Tekenaar":  "Mounge",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2015-09-18",
+        "TITEL":  "Bagara (Norsto 1 )",
+        "SOORT":  "VA",
+        "Scenarist":  "Vanloffelt",
+        "Tekenaar":  "Ronzon",
+        "NUMMER":  null,
+        "Uitgever":  "Blitz"
+    },
+    {
+        "datum":  "2006-02-18",
+        "TITEL":  "Zwart bloed (nachtelijk rood 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Nhieu",
+        "Tekenaar":  "Nhieu",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2007-07-24",
+        "TITEL":  "De honden van god (Millenium 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Nolane Richard d.",
+        "Tekenaar":  "Miville-Deschenes Francois",
+        "NUMMER":  null,
+        "Uitgever":  "Arboris"
+    },
+    {
+        "datum":  "2006-09-02",
+        "TITEL":  "Het koninkrijk van vuur (Diosamante)",
+        "SOORT":  "VA",
+        "Scenarist":  "Gal",
+        "Tekenaar":  "Jodorowsky",
+        "NUMMER":  null,
+        "Uitgever":  "Arboris"
+    },
+    {
         "datum":  "2000-01-01",
-        "TITEL":  "Pierrot de dwaas",
+        "TITEL":  "Het leven van Johannes PaulusII",
+        "SOORT":  "VA",
+        "Scenarist":  "Malinsky Mieczylaw",
+        "Tekenaar":  null,
+        "NUMMER":  null,
+        "Uitgever":  "Standaard Uitgeverij"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Plutonium",
         "SOORT":  "VA",
         "Scenarist":  null,
         "Tekenaar":  null,
         "NUMMER":  null,
         "Uitgever":  null
-    },
-    {
-        "datum":  "2001-03-06",
-        "TITEL":  "De vrouwen van Talent II",
-        "SOORT":  "VA",
-        "Scenarist":  null,
-        "Tekenaar":  null,
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
     },
     {
         "datum":  "2001-04-27",
@@ -19719,6 +19755,33 @@
         "Uitgever":  null
     },
     {
+        "datum":  "2000-01-01",
+        "TITEL":  "Farao 4 : Het levende standebeeld",
+        "SOORT":  "VA",
+        "Scenarist":  null,
+        "Tekenaar":  null,
+        "NUMMER":  null,
+        "Uitgever":  null
+    },
+    {
+        "datum":  "2001-06-06",
+        "TITEL":  "De vraatkevers",
+        "SOORT":  "VA",
+        "Scenarist":  "Paty Christian",
+        "Tekenaar":  "Paty Christian",
+        "NUMMER":  null,
+        "Uitgever":  "Arboris"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Het kind der duisternis (Aliot)",
+        "SOORT":  "VA",
+        "Scenarist":  "Jodorowsky Alexandro",
+        "Tekenaar":  "De La Fuente",
+        "NUMMER":  null,
+        "Uitgever":  "Dargaud"
+    },
+    {
         "datum":  "2000-12-01",
         "TITEL":  "De vampier van het Moeras(doodsbang 1)",
         "SOORT":  "VA",
@@ -19726,33 +19789,6 @@
         "Tekenaar":  "Mauricet",
         "NUMMER":  null,
         "Uitgever":  "Casterman"
-    },
-    {
-        "datum":  "2000-12-01",
-        "TITEL":  "Het as van de maandag",
-        "SOORT":  "VA",
-        "Scenarist":  "Stalner Eric",
-        "Tekenaar":  "Stalner Eric",
-        "NUMMER":  null,
-        "Uitgever":  "Blitz"
-    },
-    {
-        "datum":  "2000-12-16",
-        "TITEL":  "De tweede maan (De wachters van maser 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Frezzato",
-        "Tekenaar":  "Frezzato",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Het leven van Johannes PaulusII",
-        "SOORT":  "VA",
-        "Scenarist":  "Malinsky Mieczylaw",
-        "Tekenaar":  null,
-        "NUMMER":  null,
-        "Uitgever":  "Standaard Uitgeverij"
     },
     {
         "datum":  "2000-12-01",
@@ -19765,10 +19801,28 @@
     },
     {
         "datum":  "2000-01-01",
+        "TITEL":  "Het seizoen van de assen - 1 - Voor Alles",
+        "SOORT":  "VA",
+        "Scenarist":  "Mouret",
+        "Tekenaar":  "Meddour",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2000-01-01",
         "TITEL":  "In de naam van de wet en mister pinkerton(c.Kid 1)",
         "SOORT":  "VA",
         "Scenarist":  "Pearce",
         "Tekenaar":  "Léthurgie",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Jaïna ( De order van de drakeridders 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Ange",
+        "Tekenaar":  "Varanda",
         "NUMMER":  null,
         "Uitgever":  "Talent"
     },
@@ -19791,15 +19845,6 @@
         "Uitgever":  "Talent"
     },
     {
-        "datum":  "2001-01-10",
-        "TITEL":  "Mesties (Lance Crow Dog 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Perrotin Serge",
-        "Tekenaar":  "Séjourné Gaël",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
         "datum":  "2000-12-01",
         "TITEL":  "Metcalf (Milana \u0026 Arlof 1)",
         "SOORT":  "VA",
@@ -19809,13 +19854,13 @@
         "Uitgever":  "Talent"
     },
     {
-        "datum":  "2000-01-01",
-        "TITEL":  "Jaïna ( De order van de drakeridders 1)",
+        "datum":  "2000-12-01",
+        "TITEL":  "No Limits",
         "SOORT":  "VA",
-        "Scenarist":  "Ange",
-        "Tekenaar":  "Varanda",
+        "Scenarist":  "Derib",
+        "Tekenaar":  "Derib",
         "NUMMER":  null,
-        "Uitgever":  "Talent"
+        "Uitgever":  "Le Lombard"
     },
     {
         "datum":  "2000-12-16",
@@ -19836,22 +19881,31 @@
         "Uitgever":  null
     },
     {
-        "datum":  "2001-10-03",
-        "TITEL":  "Ouverture (De Vliegende Hollander 1)",
+        "datum":  "2016-06-01",
+        "TITEL":  "Wilhelm-100, De techno Admiraal ( Meta-Baron)",
         "SOORT":  "VA",
-        "Scenarist":  "Staller Jack",
-        "Tekenaar":  "Staller Jack",
+        "Scenarist":  "Jerry Frissen",
+        "Tekenaar":  "Valentin Secher",
         "NUMMER":  null,
-        "Uitgever":  "Arboris"
+        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Farao 4 : Het levende standebeeld",
+        "TITEL":  "Pierrot de dwaas",
         "SOORT":  "VA",
         "Scenarist":  null,
         "Tekenaar":  null,
         "NUMMER":  null,
         "Uitgever":  null
+    },
+    {
+        "datum":  "2000-12-01",
+        "TITEL":  "Het as van de maandag",
+        "SOORT":  "VA",
+        "Scenarist":  "Stalner Eric",
+        "Tekenaar":  "Stalner Eric",
+        "NUMMER":  null,
+        "Uitgever":  "Blitz"
     },
     {
         "datum":  "2000-01-01",
@@ -19962,13 +20016,13 @@
         "Uitgever":  "Le Lombard"
     },
     {
-        "datum":  "2001-06-06",
-        "TITEL":  "De vraatkevers",
+        "datum":  "2001-03-06",
+        "TITEL":  "De vrouwen van Talent II",
         "SOORT":  "VA",
-        "Scenarist":  "Paty Christian",
-        "Tekenaar":  "Paty Christian",
+        "Scenarist":  null,
+        "Tekenaar":  null,
         "NUMMER":  null,
-        "Uitgever":  "Arboris"
+        "Uitgever":  "Talent"
     },
     {
         "datum":  "2000-01-01",
@@ -19980,13 +20034,13 @@
         "Uitgever":  "Arboris"
     },
     {
-        "datum":  "2000-12-01",
-        "TITEL":  "No Limits",
+        "datum":  "2001-10-03",
+        "TITEL":  "Ouverture (De Vliegende Hollander 1)",
         "SOORT":  "VA",
-        "Scenarist":  "Derib",
-        "Tekenaar":  "Derib",
+        "Scenarist":  "Staller Jack",
+        "Tekenaar":  "Staller Jack",
         "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
+        "Uitgever":  "Arboris"
     },
     {
         "datum":  "2000-12-01",
@@ -20088,6 +20142,15 @@
         "Uitgever":  "Talent"
     },
     {
+        "datum":  "2000-12-16",
+        "TITEL":  "De tweede maan (De wachters van maser 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Frezzato",
+        "Tekenaar":  "Frezzato",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
         "datum":  "2000-01-01",
         "TITEL":  "De 4de macht",
         "SOORT":  "VA",
@@ -20097,31 +20160,13 @@
         "Uitgever":  null
     },
     {
-        "datum":  "2001-05-14",
-        "TITEL":  "Western",
-        "SOORT":  "VA",
-        "Scenarist":  "Van Hamme Jean",
-        "Tekenaar":  "Rosinski Grzergorz",
-        "NUMMER":  null,
-        "Uitgever":  "Le Lombard"
-    },
-    {
         "datum":  "2000-01-01",
-        "TITEL":  "Plutonium",
+        "TITEL":  "Wyoming Doll",
         "SOORT":  "VA",
-        "Scenarist":  null,
-        "Tekenaar":  null,
+        "Scenarist":  "Franz",
+        "Tekenaar":  "Franz",
         "NUMMER":  null,
-        "Uitgever":  null
-    },
-    {
-        "datum":  "2023-12-25",
-        "TITEL":  "Anomalie een (Olympus mons)",
-        "SOORT":  "VA",
-        "Scenarist":  "Raffaele",
-        "Tekenaar":  "Bec",
-        "NUMMER":  null,
-        "Uitgever":  "Daedalus"
+        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2000-01-01",
@@ -20129,6 +20174,42 @@
         "SOORT":  "VA",
         "Scenarist":  "Beretta",
         "Tekenaar":  "Alelsandrini",
+        "NUMMER":  null,
+        "Uitgever":  "Arboris"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Duizend en één problemen (Troll 3)",
+        "SOORT":  "VA",
+        "Scenarist":  "Morvan",
+        "Tekenaar":  "Sfar",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Woelige waters (Ostatis 2)",
+        "SOORT":  "VA",
+        "Scenarist":  "Ouali",
+        "Tekenaar":  "Ouali",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
+    },
+    {
+        "datum":  "2001-06-28",
+        "TITEL":  "Psybom (Siloe 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Le Tendre",
+        "Tekenaar":  "Servain",
+        "NUMMER":  null,
+        "Uitgever":  "Blitz"
+    },
+    {
+        "datum":  "2007-07-24",
+        "TITEL":  "De schaduw van de antichrist (Millenium 2)",
+        "SOORT":  "VA",
+        "Scenarist":  "Nolane Richard d.",
+        "Tekenaar":  "Miville-Deschenes Francois",
         "NUMMER":  null,
         "Uitgever":  "Arboris"
     },
@@ -20142,20 +20223,29 @@
         "Uitgever":  "Daedalus"
     },
     {
+        "datum":  "2023-12-25",
+        "TITEL":  "Anomalie een (Olympus mons)",
+        "SOORT":  "VA",
+        "Scenarist":  "Raffaele",
+        "Tekenaar":  "Bec",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
+        "datum":  "2021-12-02",
+        "TITEL":  "Onmenselijk",
+        "SOORT":  "VA",
+        "Scenarist":  "Bajram",
+        "Tekenaar":  "Mangin",
+        "NUMMER":  null,
+        "Uitgever":  "Daedalus"
+    },
+    {
         "datum":  "2002-12-15",
         "TITEL":  "Zwarte Saskia",
         "SOORT":  "VA",
         "Scenarist":  "Dubois Pierre",
         "Tekenaar":  "Rollin Lucien",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Wyoming Doll",
-        "SOORT":  "VA",
-        "Scenarist":  "Franz",
-        "Tekenaar":  "Franz",
         "NUMMER":  null,
         "Uitgever":  "Dargaud"
     },
@@ -20178,40 +20268,13 @@
         "Uitgever":  null
     },
     {
-        "datum":  "2021-12-02",
-        "TITEL":  "Onmenselijk",
+        "datum":  "2001-05-20",
+        "TITEL":  "Western\u0027",
         "SOORT":  "VA",
-        "Scenarist":  "Bajram",
-        "Tekenaar":  "Mangin",
+        "Scenarist":  "Van Hamme Jean",
+        "Tekenaar":  "Rosinski Grzergorz",
         "NUMMER":  null,
-        "Uitgever":  "Daedalus"
-    },
-    {
-        "datum":  "2016-01-01",
-        "TITEL":  "Amaury (Marie der draken 3)",
-        "SOORT":  "VA",
-        "Scenarist":  "Ange",
-        "Tekenaar":  "Demarez",
-        "NUMMER":  null,
-        "Uitgever":  "Silvester"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Tweestromenland ( Gilgamesh 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Mitton Jean Yves",
-        "Tekenaar":  "Zimmermann",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2001-06-28",
-        "TITEL":  "Psybom (Siloe 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Le Tendre",
-        "Tekenaar":  "Servain",
-        "NUMMER":  null,
-        "Uitgever":  "Blitz"
+        "Uitgever":  "Le Lombard"
     },
     {
         "datum":  "2000-01-01",
@@ -20224,57 +20287,21 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Duizend en één problemen (Troll 3)",
+        "TITEL":  "Sandy Eastern",
         "SOORT":  "VA",
-        "Scenarist":  "Morvan",
-        "Tekenaar":  "Sfar",
+        "Scenarist":  "Franz",
+        "Tekenaar":  "Jarby",
         "NUMMER":  null,
-        "Uitgever":  "Talent"
+        "Uitgever":  "Blanco"
     },
     {
-        "datum":  "2000-01-01",
-        "TITEL":  "Roulez jeunesse",
-        "SOORT":  "VA",
-        "Scenarist":  "Van Die Jan - Plijnaar Wilbert",
-        "Tekenaar":  "Van Der Kroft Robert",
-        "NUMMER":  null,
-        "Uitgever":  "Wiroja"
-    },
-    {
-        "datum":  "2001-05-20",
-        "TITEL":  "Western\u0027",
+        "datum":  "2001-05-14",
+        "TITEL":  "Western",
         "SOORT":  "VA",
         "Scenarist":  "Van Hamme Jean",
         "Tekenaar":  "Rosinski Grzergorz",
         "NUMMER":  null,
         "Uitgever":  "Le Lombard"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Tierras Calientes (Tequila Desperados 1)",
-        "SOORT":  "VA",
-        "Scenarist":  "Marazano Richard",
-        "Tekenaar":  "Cassini",
-        "NUMMER":  null,
-        "Uitgever":  "Talent"
-    },
-    {
-        "datum":  "2007-07-24",
-        "TITEL":  "De schaduw van de antichrist (Millenium 2)",
-        "SOORT":  "VA",
-        "Scenarist":  "Nolane Richard d.",
-        "Tekenaar":  "Miville-Deschenes Francois",
-        "NUMMER":  null,
-        "Uitgever":  "Arboris"
-    },
-    {
-        "datum":  "2000-01-01",
-        "TITEL":  "Uit liefde voor het vak : deel 1",
-        "SOORT":  "VA",
-        "Scenarist":  null,
-        "Tekenaar":  null,
-        "NUMMER":  null,
-        "Uitgever":  null
     },
     {
         "datum":  "2000-01-01",
@@ -20287,21 +20314,39 @@
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Woelige waters (Ostatis 2)",
+        "TITEL":  "Roulez jeunesse",
         "SOORT":  "VA",
-        "Scenarist":  "Ouali",
-        "Tekenaar":  "Ouali",
+        "Scenarist":  "Van Die Jan - Plijnaar Wilbert",
+        "Tekenaar":  "Van Der Kroft Robert",
+        "NUMMER":  null,
+        "Uitgever":  "Wiroja"
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Tierras Calientes (Tequila Desperados 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Marazano Richard",
+        "Tekenaar":  "Cassini",
         "NUMMER":  null,
         "Uitgever":  "Talent"
     },
     {
         "datum":  "2000-01-01",
-        "TITEL":  "Sandy Eastern",
+        "TITEL":  "Uit liefde voor het vak : deel 1",
         "SOORT":  "VA",
-        "Scenarist":  "Franz",
-        "Tekenaar":  "Jarby",
+        "Scenarist":  null,
+        "Tekenaar":  null,
         "NUMMER":  null,
-        "Uitgever":  "Blanco"
+        "Uitgever":  null
+    },
+    {
+        "datum":  "2000-01-01",
+        "TITEL":  "Tweestromenland ( Gilgamesh 1)",
+        "SOORT":  "VA",
+        "Scenarist":  "Mitton Jean Yves",
+        "Tekenaar":  "Zimmermann",
+        "NUMMER":  null,
+        "Uitgever":  "Talent"
     },
     {
         "datum":  "2007-07-28",
@@ -20781,29 +20826,11 @@
         "Uitgever":  "Talent"
     },
     {
-        "datum":  "2015-07-01",
-        "TITEL":  "Mystery : Martha Shoebridge",
-        "SOORT":  "XIII",
-        "Scenarist":  "C. Wilson",
-        "Tekenaar":  "F. Giroud",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
         "datum":  "2016-12-20",
         "TITEL":  "Mystery : Calvin Wax",
         "SOORT":  "XIII",
         "Scenarist":  "C. Rouge",
         "Tekenaar":  "F. Duval",
-        "NUMMER":  null,
-        "Uitgever":  "Dargaud"
-    },
-    {
-        "datum":  "2016-01-01",
-        "TITEL":  "Mystery : Felicity Brown",
-        "SOORT":  "XIII",
-        "Scenarist":  "C. Wilson",
-        "Tekenaar":  "F. Giroud",
         "NUMMER":  null,
         "Uitgever":  "Dargaud"
     },
@@ -20826,11 +20853,20 @@
         "Uitgever":  "Dargaud"
     },
     {
-        "datum":  "2012-11-01",
-        "TITEL":  "Mystery : Steve Rowland",
+        "datum":  "2016-01-01",
+        "TITEL":  "Mystery : Felicity Brown",
         "SOORT":  "XIII",
-        "Scenarist":  "Guerineau",
-        "Tekenaar":  "Nury",
+        "Scenarist":  "C. Wilson",
+        "Tekenaar":  "F. Giroud",
+        "NUMMER":  null,
+        "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2015-07-01",
+        "TITEL":  "Mystery : Martha Shoebridge",
+        "SOORT":  "XIII",
+        "Scenarist":  "C. Wilson",
+        "Tekenaar":  "F. Giroud",
         "NUMMER":  null,
         "Uitgever":  "Dargaud"
     },
@@ -20853,11 +20889,11 @@
         "Uitgever":  "Dargaud"
     },
     {
-        "datum":  "2009-12-01",
-        "TITEL":  "Mystery : Irinia",
+        "datum":  "2012-11-01",
+        "TITEL":  "Mystery : Steve Rowland",
         "SOORT":  "XIII",
-        "Scenarist":  "Berthet",
-        "Tekenaar":  "Corbeyran",
+        "Scenarist":  "Guerineau",
+        "Tekenaar":  "Nury",
         "NUMMER":  null,
         "Uitgever":  "Dargaud"
     },
@@ -20887,6 +20923,15 @@
         "Tekenaar":  "Callede",
         "NUMMER":  null,
         "Uitgever":  "DARGAUD"
+    },
+    {
+        "datum":  "2009-12-01",
+        "TITEL":  "Mystery : Irinia",
+        "SOORT":  "XIII",
+        "Scenarist":  "Berthet",
+        "Tekenaar":  "Corbeyran",
+        "NUMMER":  null,
+        "Uitgever":  "Dargaud"
     },
     {
         "datum":  "2000-01-01",
@@ -21147,6 +21192,15 @@
         "Scenarist":  "I. Jigounov",
         "Tekenaar":  "Y. Sente",
         "NUMMER":  29,
+        "Uitgever":  "Dargaud"
+    },
+    {
+        "datum":  "2026-08-04",
+        "TITEL":  "So help me god!",
+        "SOORT":  "XIII",
+        "Scenarist":  "I. Jigounov",
+        "Tekenaar":  "Y. Sente",
+        "NUMMER":  30,
         "Uitgever":  "Dargaud"
     },
     {
